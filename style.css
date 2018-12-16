@@ -234,7 +234,7 @@ h3 {
 
 .tab-controll a:hover {
   color: #212121;
-  border-bottom: 3px solid#212121;
+  border-bottom: 3px solid #212121;
 }
 
 .btn-ghost {
@@ -258,7 +258,7 @@ h3 {
 }
 
 .tab-content ul {
-  margin-right: -30px;
+  margin-right: -32px;
   overflow: hidden;
 }
 
@@ -807,7 +807,7 @@ a .fa-map-marker-alt {
 }
 .tab-products a:hover {
   color: #212121;
-  border-bottom: 3px solid#212121;
+  border-bottom: 3px solid #212121;
 }
 
 .product-range{
