@@ -1,2 +1,2 @@
-# MinakovaLisa.github.io
+# MinakovaLisa.github.io/nterior
 учебный хост, дз№8
